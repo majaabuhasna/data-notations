@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Bershka",
+        "founded": 1998,
+        "headquarters": "Barcelona, Spain",
+        "employees": 14000,
+        "products": [
+            "Fashion Apparel",
+            "Footwear",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "4F",
+        "founded": 2003,
+        "headquarters": "Wieliczka, Poland",
+        "employees": 2000,
+        "products": [
+            "Sportswear",
+            "Footwear",
+            "Accessories"
+        ]
     }
 ]
