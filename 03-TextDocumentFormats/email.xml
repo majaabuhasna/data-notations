@@ -1,0 +1,15 @@
+<email>
+    <sender>janedoe@university.edu</sender>
+    <recipient>johnsmith@university.edu</recipient>
+    <subject>Project update</subject>
+    <body>
+        Hi John,
+
+        I hope you're doing well. I wanted to share a quick update regarding the project milestones.
+        The development team has completed 80% of the tasks, and testing is scheduled to begin next Monday.
+        Let me know if you'd like to review the progress report in our next meeting.
+        
+        Best regards,
+        Jane Doe
+    </body>
+</email>
