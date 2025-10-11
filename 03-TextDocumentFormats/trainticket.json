@@ -1,0 +1,13 @@
+{
+    "nameOfPassenger": "Joe Brown",
+    "from": "Paris",
+    "to": "London",
+    "date": "12 May",
+    "departure": "14:30",
+    "priceEuro": 45,
+    "trainId": 3924,
+    "platform": 3,
+    "carriage": 4,
+    "seat": "A18",
+    "firstClass": false
+}
