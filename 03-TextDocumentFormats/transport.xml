@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transport>
-    
+    <tram line="50" model="Stadler Tango Krakow 'Lajkonik'">
+        <length unit="meter">33.30</length>
+        <amount_of_seats>82</amount_of_seats>
+        <manufacturer>Stadler</manufacturer>
+        <release_year>2020</release_year>
+    </tram>
+    <bus line="164" model="Solaris Urbino 12 Electric">
+        <length unit="meter">12</length>
+        <amount_of_seats>41</amount_of_seats>
+        <manufacturer>Solaris</manufacturer>
+        <release_year>2014</release_year>
+    </bus>
+    <car city_id="KR" model="Opel Corsa 1.4">
+        <length unit="meter">4,06</length>
+        <amount_of_seats>5</amount_of_seats>
+        <manufacturer>Opel</manufacturer>
+        <release_year>2019</release_year>
+    </car>
 </transport>
