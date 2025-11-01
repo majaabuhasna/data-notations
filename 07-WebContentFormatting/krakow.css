@@ -1,0 +1,28 @@
+table {
+    border-collapse: collapse;
+    border: 2px solid gainsboro;
+    
+}
+
+th {
+    background-color: darkgreen;
+    color: white;
+    padding: 13px;
+}
+
+th:nth-child(1) {
+    width: 25%;
+}
+
+th:nth-child(4) {
+    width: 40%;
+}
+
+td {
+    padding: 10px;
+    color: darkslategrey;
+}
+
+tr:hover {
+    background-color:azure
+}
