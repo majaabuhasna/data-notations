@@ -1,0 +1,31 @@
+body {
+    background-color: azure;
+    font-family: Verdana;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: hotpink;
+    text-align: center;
+    padding: 20px;
+    color:floralwhite
+}
+
+h2 {
+    text-align: center;
+}
+
+.box {
+    color: white;
+    background-color:lightblue;
+    padding: 10px;
+    margin: 50px;
+    text-align: center
+}
+
+@media (max-width: 500px) {
+    .box {
+        flex-direction: column;
+    }
+}
